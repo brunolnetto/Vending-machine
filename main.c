@@ -25,10 +25,10 @@
   int estado;
 
 /**********************************************************************
- Variáveis Globais
+ Variaveis Globais
  **********************************************************************/
 
-/******************* Variáveis da máquina de estados ******************/
+/******************* Variaveis da maquina de estados ******************/
 
 // Codigo correspondente ao evento em execucao
 int codigoEvento;
@@ -36,41 +36,41 @@ int codigoEvento;
 // Codigo correpondente a Acao em execucao
 int codigoAcao;
 
-// Estado atual da máquina
+// Estado atual da maquina
 int estado;
 
-// Evento Interno de determinada ação
+// Evento Interno de determinada acao
 int eventoInterno;
 
-/********** Variáveis para decodificação e execução de ações **********/
+/********** Variï¿½veis para decodificacao e execucao de acoes **********/
 
-// Teclas digitadas pelo usuário do simulador
+// Teclas digitadas pelo usuario do simulador
 char* teclas;
 
-// Variável que conta quantas vezes a máquina
-//    já solicitou que o cliente colocasse mais
-//    dinheiro na máquina
+// Variï¿½vel que conta quantas vezes a maquina
+//    jï¿½ solicitou que o cliente colocasse mais
+//    dinheiro na mï¿½quina
 int pedeDinheiroAoCliente;
 
-// Valor de dinheiro já inserido pelo usuário
+// Valor de dinheiro ja inserido pelo usuario
 int dinheiroAtual;
 
-// Quando está sendo efetuado uma compra de produto,
-//    esta variável guarda o código do produto
+// Quando estï¿½ sendo efetuado uma compra de produto,
+//    esta variavel guarda o cï¿½digo do produto
 int codigoMaquina;
 
 // Valor de troco a devolver ao cliente
 int troco;
 
-// Codigo do produto para manipulação no banco de dados
+// Codigo do produto para manipulacao no banco de dados
 //    (cadastro, exclusao, alteracao)
 int codigo_manip;
 
-// Preco do código para manipulação no banco de dados
+// Preco do cï¿½digo para manipulacao no banco de dados
 //    (cadastro, exclusao, alteracao)
 int preco_manip;
 
-// Quantidade do código para manipulação no banco de dados
+// Quantidade do codigo para manipulacao no banco de dados
 //    (cadastro, exclusao, alteracao)
 int qtdade_manip;
 

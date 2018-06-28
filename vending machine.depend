@@ -4,6 +4,8 @@
 	<stdlib.h>
 	"bancodeprodutos.h"
 
+1367172589 odutos.h"
+
 1367364530 c:\users\bruno\dropbox\poli\semestres\7º semestre\pmr2440 - programação\projeto_vending_machine_2013\vending machine\bancodeprodutos.h
 
 1367375146 source:c:\users\bruno\dropbox\poli\semestres\7º semestre\pmr2440 - programação\projeto_vending_machine_2013\vending machine\dinheiro.c
@@ -11,6 +13,8 @@
 	<stdlib.h>
 	"dinheiro.h"
 	"definicoes_sistema.h"
+
+1365998584 s_sistema.h"
 
 1367375674 c:\users\bruno\dropbox\poli\semestres\7º semestre\pmr2440 - programação\projeto_vending_machine_2013\vending machine\dinheiro.h
 
@@ -45,6 +49,8 @@
 	"troco.h"
 	"matrizdeEstadoseAcoes.h"
 
+1367374076 stadoseAcoes.h"
+
 1365994940 c:\users\bruno\dropbox\poli\semestres\7º semestre\pmr2440 - programação\projeto_vending_machine_2013\vending machine\senhas.h
 
 1365999144 c:\users\bruno\dropbox\poli\semestres\7º semestre\pmr2440 - programação\projeto_vending_machine_2013\vending machine\timer.h
@@ -55,12 +61,16 @@
 	"definicoes_sistema.h"
 	"senhas.h"
 
+1367100988 
+
 1367174276 source:c:\users\bruno\dropbox\poli\semestres\7º semestre\pmr2440 - programação\projeto_vending_machine_2013\vending machine\timer.c
 	<stdio.h>
 	<stdlib.h>
 	<time.h>
 	"definicoes_sistema.h"
 	"timer.h"
+
+1367375146 
 
 1367365795 c:\users\bruno\dropbox\poli\semestres\7º semestre\pmr2440 - programação\projeto_vending_machine_2013\vending machine\matrizdeestadoseacoes.h
 
@@ -77,4 +87,83 @@
 	<stdlib.h>
 	"definicoes_sistema.h"
 	"matrizdeEstadoseAcoes.h"
+
+1522026459 source:/home/bpeixoto/Github/Vending-machine/bancodeprodutos.c
+	<stdio.h>
+	<stdlib.h>
+	"bancodeprodutos.h"
+
+1522009510 /home/bpeixoto/Github/Vending-machine/bancodeprodutos.h
+
+1522009510 source:/home/bpeixoto/Github/Vending-machine/dinheiro.c
+	<stdio.h>
+	<stdlib.h>
+	"dinheiro.h"
+	"definicoes_sistema.h"
+
+1522009510 /home/bpeixoto/Github/Vending-machine/dinheiro.h
+
+1522026459 /home/bpeixoto/Github/Vending-machine/definicoes_sistema.h
+
+1522009510 source:/home/bpeixoto/Github/Vending-machine/dispenser.c
+	<stdio.h>
+	<stdlib.h>
+	"dispenser.h"
+	"bancodeprodutos.h"
+
+1522009510 /home/bpeixoto/Github/Vending-machine/dispenser.h
+
+1522009510 source:/home/bpeixoto/Github/Vending-machine/ihm.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"ihm.h"
+
+1522009510 /home/bpeixoto/Github/Vending-machine/ihm.h
+
+1522026459 source:/home/bpeixoto/Github/Vending-machine/main.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"ihm.h"
+	"senhas.h"
+	"timer.h"
+	"dispenser.h"
+	"bancodeprodutos.h"
+	"dinheiro.h"
+	"troco.h"
+	"matrizdeEstadoseAcoes.h"
+
+1522009510 /home/bpeixoto/Github/Vending-machine/senhas.h
+
+1522009510 /home/bpeixoto/Github/Vending-machine/timer.h
+
+1522009510 /home/bpeixoto/Github/Vending-machine/troco.h
+
+1522009510 /home/bpeixoto/Github/Vending-machine/matrizdeEstadoseAcoes.h
+
+1522009510 source:/home/bpeixoto/Github/Vending-machine/matrizdeEstadoseAcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"matrizdeEstadoseAcoes.h"
+
+1522009510 source:/home/bpeixoto/Github/Vending-machine/senhas.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"senhas.h"
+
+1522009510 source:/home/bpeixoto/Github/Vending-machine/timer.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"definicoes_sistema.h"
+	"timer.h"
+
+1522009510 source:/home/bpeixoto/Github/Vending-machine/troco.c
+	<stdio.h>
+	<stdlib.h>
+	"definicoes_sistema.h"
+	"troco.h"
 
